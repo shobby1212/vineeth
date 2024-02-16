@@ -1,0 +1,22 @@
+Run	Assay Type	AvgSpotLen	Bases	BioProject	BioSample	BioSampleModel	Bytes	Center Name	Collection_Date	Consent	DATASTORE filetype	DATASTORE provider	DATASTORE region	env_broad_scale	env_local_scale	env_medium	Experiment	geo_loc_name_country	geo_loc_name_country_continent	geo_loc_name	Host	Instrument	isolation_source	lat_lon	Library Name	LibraryLayout	LibrarySelection	LibrarySource	Organism	Platform	ReleaseDate	create_date	version	Sample Name	SRA Study
+SRR12998713	AMPLICON	417	17219052	PRJNA674989	SAMN16686193	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	7945249	AIR FORCE MEDICAL UNIVERSITY	05-11-2019	public	"run.zq,fastq,sra"	"gs,ncbi,s3"	"s3.us-east-1,ncbi.public,gs.US"	not applicable	not applicable	human stool	SRX9450177	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F21	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F21.	SRP291402
+SRR12998715	AMPLICON	408	21246715	PRJNA674989	SAMN16686192	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	10135138	AIR FORCE MEDICAL UNIVERSITY	26-11-2019	public	"run.zq,sra,fastq"	"ncbi,s3,gs"	"ncbi.public,gs.US,s3.us-east-1"	not applicable	not applicable	human stool	SRX9450175	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F20	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F20.	SRP291402
+SRR12998716	AMPLICON	413	16880258	PRJNA674989	SAMN16686191	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	8114759	AIR FORCE MEDICAL UNIVERSITY	27-11-2019	public	"fastq,sra,run.zq"	"gs,s3,ncbi"	"gs.US,s3.us-east-1,ncbi.public"	not applicable	not applicable	human stool	SRX9450174	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F19	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F19.	SRP291402
+SRR12998717	AMPLICON	419	20444216	PRJNA674989	SAMN16686190	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	9654226	AIR FORCE MEDICAL UNIVERSITY	28-11-2019	public	"fastq,run.zq,sra"	"s3,gs,ncbi"	"gs.US,s3.us-east-1,ncbi.public"	not applicable	not applicable	human stool	SRX9450173	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F18	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F18.	SRP291402
+SRR12998718	AMPLICON	409	24196488	PRJNA674989	SAMN16686189	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	11337608	AIR FORCE MEDICAL UNIVERSITY	29-11-2019	public	"fastq,sra,run.zq"	"s3,gs,ncbi"	"gs.US,s3.us-east-1,ncbi.public"	not applicable	not applicable	human stool	SRX9450172	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F17	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F17.	SRP291402
+SRR12998719	AMPLICON	415	16092841	PRJNA674989	SAMN16686188	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	7814108	AIR FORCE MEDICAL UNIVERSITY	24-06-2019	public	"fastq,sra,run.zq"	"ncbi,s3,gs"	"ncbi.public,s3.us-east-1,gs.US"	not applicable	not applicable	human stool	SRX9450171	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F16	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F16.	SRP291402
+SRR12998720	AMPLICON	414	25109732	PRJNA674989	SAMN16686187	"MIMS.me,MIGS/MIMS/MIMARKS.human-gut"	12095295	AIR FORCE MEDICAL UNIVERSITY	23-06-2019	public	"run.zq,fastq,sra"	"s3,ncbi,gs"	"s3.us-east-1,ncbi.public,gs.US"	not applicable	not applicable	human stool	SRX9450170	China	Asia	China: Shaanxi	not applicable	Illumina MiSeq	human stool	34.23 N 108.93 E	LTBI_F15	SINGLE	PCR	METAGENOMIC	human gut metagenome	ILLUMINA	2021-06-06T00:00:00Z	2020-11-06T07:14:00Z	1	trim.LTBI_F15.	SRP291402
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
